@@ -1,4 +1,4 @@
-# 🛡️ Auditor Inteligente de Conformidade LGPD - CESAR School
+# 🛡️ Auditor Inteligente de Conformidade LGPD
 
 Sistema automatizado de governança e auditoria regulatória baseado em **Inteligência Artificial Generativa e RAG (Retrieval-Augmented Generation)**, desenvolvido para a disciplina de **Gestão de Segurança da Informação** da CESAR School.
 
