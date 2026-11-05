@@ -1,0 +1,17 @@
+TERMO DE USO E POLÍTICA DE PRIVACIDADE - SERVIÇOS DIGITAIS LTDA
+
+1. DO OBJETO
+O presente termo regula o uso da plataforma de intermediação e fidelidade digital.
+
+2. DA COLETA E USO IRRESTRITO DE DADOS PESSOAIS E SENSÍVEIS
+Ao criar sua conta, o USUÁRIO concorda que a PLATAFORMA poderá coletar, a seu exclusivo critério, quaisquer dados pessoais, biométricos, dados genéticos, de saúde e histórico de localização em tempo real, sem necessidade de aviso prévio ou consentimento específico adicional.
+
+3. DO COMPARTILHAMENTO E VENDA DE DADOS
+A PLATAFORMA reserva-se o direito de ceder, transferir, comercializar ou compartilhar todos os dados cadastrais, financeiros e de navegação dos usuários com parceiros comerciais nacionais e internacionais, para quaisquer finalidades publicitárias ou econômicas não especificadas.
+
+4. DO PRAZO DE RETENÇÃO E EXCLUSÃO
+Os dados coletados serão mantidos por prazo indeterminado e irrevogável no banco de dados da PLATAFORMA. O USUÁRIO renuncia ao direito de solicitar a exclusão definitiva, revogação ou portabilidade de seus dados, tendo em vista os custos operacionais de manutenção dos servidores.
+
+5. DA SEGURANÇA E ISENÇÃO DE RESPONSABILIDADE
+A PLATAFORMA não garante níveis mínimos de criptografia ou segurança da informação. Em caso de invasão, vazamento ou incidente de segurança cibernética, a PLATAFORMA fica isenta de qualquer obrigação de comunicar o USUÁRIO ou a Autoridade Nacional de Proteção de Dados (ANPD).
+

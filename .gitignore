@@ -1,0 +1,24 @@
+# Ambiente virtual
+.venv/
+
+# Cache do FAISS (será recriado na nuvem)
+faiss_index_lgpd/
+
+# Variáveis de ambiente secretas
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Credenciais Google
+credentials.json
+credentials_sa.json
+
+# Scripts temporários
+inspect_drive.py
+
+# Pastas de download temporário
+amostras_temporarias/
+

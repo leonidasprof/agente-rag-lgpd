@@ -1,0 +1,26 @@
+POLÍTICA DE PRIVACIDADE E PROTEÇÃO DE DADOS - CESAR TECH SOLUÇÕES
+
+1. COMPROMISSO COM A PRIVACIDADE
+A CESAR Tech Soluções valoriza a privacidade e a proteção de dados pessoais de seus clientes e usuários, em total conformidade com a Lei Federal nº 13.709/2018 (Lei Geral de Proteção de Dados - LGPD).
+
+2. DADOS COLETADOS E BASES LEGAIS
+Coletamos apenas os dados estritamente necessários para o cumprimento de nossas obrigações contratuais e legais (Art. 7º, II e V da LGPD):
+- Dados Cadastrais: Nome completo, e-mail corporativo, CPF e telefone, utilizados exclusivamente para identificação do titular e emissão de notas fiscais.
+- Não coletamos dados pessoais sensíveis ou dados de menores sem consentimento específico e em destaque dos responsáveis legais.
+
+3. PRINCÍPIOS APLICADOS AO TRATAMENTO
+Todo tratamento fundamenta-se nos princípios da boa-fé, finalidade legítima e informada, adequação, necessidade (minimização de dados), livre acesso, transparência e segurança técnica (Art. 6º da LGPD).
+
+4. COMPARTILHAMENTO DE DADOS
+O compartilhamento de dados ocorre exclusivamente com provedores de hospedagem em nuvem que atendam a rígidos padrões internacionais de segurança (ISO 27001) e autoridades competentes mediante determinação legal ou judicial. Não comercializamos dados pessoais em hipótese alguma.
+
+5. DIREITOS DOS TITULARES DE DADOS
+Em estrita observância ao Art. 18 da LGPD, garantimos a qualquer momento aos titulares:
+- Confirmação da existência de tratamento e acesso facilitado aos dados.
+- Correção de dados incompletos, inexatos ou desatualizados.
+- Anonimização, bloqueio ou eliminação de dados desnecessários ou tratados em desconformidade.
+- Portabilidade dos dados a outro fornecedor e revogação do consentimento.
+
+6. SEGURANÇA E ENCARREGADO DE DADOS (DPO)
+Adotamos medidas técnicas como criptografia AES-256 e controle de acesso baseado em privilégios mínimos (Art. 46). Em cumprimento ao Art. 41 da LGPD, nosso Encarregado pelo Tratamento de Dados Pessoais (DPO) pode ser contatado pelo e-mail: dpo@cesartech.com.br.
+
